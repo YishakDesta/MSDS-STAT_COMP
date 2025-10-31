@@ -1,8 +1,5 @@
 # MSDS-STAT_COMP
+Introduction
 
-Some descriptions
-
-
-## subheader
-
-DELETED
+## Phyton Programming
+We have used an easy "Hello World" out put phyton code.
